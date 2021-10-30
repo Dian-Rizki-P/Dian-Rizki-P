@@ -1,4 +1,4 @@
-<h1 align="center"> Hallo Bro :) </h1>
+<h1 align="center"> 😎 </h1>
 <p align="center">
 •●•
 </p>
