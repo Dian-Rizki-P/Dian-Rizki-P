@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-<img src="https://giffiles.alphacoders.com/120/120248.gif">
+<img src="https://github.com/Dian-Rizki-P/Dian-Rizki-P/blob/main/images%20(1).jpeg">
 </p>
 <p align="center">
 <i> <b> GUE BUKAN HACKER ANJENG !!! </b> </i>
